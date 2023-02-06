@@ -10,9 +10,6 @@
 
 ![](https://media.giphy.com/media/3E2cPlvPv37TkNPmNk/giphy.gif)
 
-![](https://icons8.com/icon/CIAZz2CYc6Kc/tailwindcss)
-
-![](https://icons8.com/icon/yUdJlcKanVbh/next.js)
 
 
 
