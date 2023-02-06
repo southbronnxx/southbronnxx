@@ -5,9 +5,7 @@ I'm Ander'
 ###Currently working on some cool personal projects
 ###Looking forward to colaborating with like minds
 
-<picture>
- <img alt="YOUR-ALT-TEXT" src="https://giphy.com/stickers/dinosaur-t-rex-dinosaurio-e5RXnHeokFGMsOUMMm/fullscreen">
-</picture>
+![](https://media.giphy.com/media/e5RXnHeokFGMsOUMMm/giphy.gif)
 
 
 
