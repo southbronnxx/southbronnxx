@@ -4,7 +4,7 @@
 
 ##### I'm a passionate frontend developer with a drive to create intuitive and visually appealing websites. 
 ##### Skilled in HTML, CSS, JavaScript, and React. Always eager to learn and expand my knowledge in the ever-evolving field of web development. 
-##### I'm learning the Rust Programming language and work love to contribute to open-source in anyway I can
+##### I'm learning the Rust Programming language and would love to contribute to open-source in anyway I can
 ##### Let's create something beautiful together 🚀
 
 ![](https://media.giphy.com/media/3E2cPlvPv37TkNPmNk/giphy.gif)
